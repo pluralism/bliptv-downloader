@@ -1,5 +1,7 @@
 # BlipTV downloader #
 
+[![Code Climate](https://codeclimate.com/github/pluralism/bliptv-downloader.png)](https://codeclimate.com/github/pluralism/bliptv-downloader)
+
 13/05/2013 
 
 This is a BlipTV downloader. Currently the program can only show to you the download links and it's still very buggy! Keep in mind that this is just a pre alpha release and I'll be updating the program everyday.
